@@ -1,0 +1,10 @@
+To run the game you have to add gl libraries and directories
+
+1. Open the project.
+2. Select properties from project
+3. Select c/c++ -> general -> Additional Include Directories
+4. Give the path off glfiles include directory
+5. Select linkers -> Additional Library Directories
+6. Give the path off glfiles lib directory
+
+Command By Marzan.

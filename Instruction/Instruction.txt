@@ -1,0 +1,6 @@
+1. Start the game click with start botton
+2. To move the plane left to right use the right arrow key from your laptop.
+3. To move the plane right to left use the left arrow  key from your laptop.
+4. To move the plane up and down arrow key from your laptop.
+6. For firing use "space" button.
+7. If there is any collision  then game is over.
